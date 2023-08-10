@@ -46,3 +46,6 @@ assets/models/
 assets/textures/
 
 imgui*.ini
+
+homeworks/project/.idea
+homeworks/project/cmake-build-debug
